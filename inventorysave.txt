@@ -1,0 +1,8 @@
+1. apple
+2. peach
+3. pear
+4. orange
+5. grapefruit
+6. grape
+7. watermelon
+8. pineapple
